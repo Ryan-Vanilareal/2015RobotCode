@@ -5,9 +5,9 @@ import edu.wpi.first.wpilibj.command.Command;
 /**
  *
  */
-public class Hook extends Command {
+public class HookCableExtend extends Command {
 
-    public Hook() {
+    public HookCableExtend() {
         // Use requires() here to declare subsystem dependencies
         // eg. requires(chassis);
     }
